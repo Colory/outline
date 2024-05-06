@@ -3462,10 +3462,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/readable-stream@^4.0.9":
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/@types/readable-stream/-/readable-stream-4.0.9.tgz#b7f84343801107b9bcf3dca01934d30dc8df0360"
-  integrity sha512-4cwuvrmNF96M4Nrx0Eep37RwPB1Mth+nCSezsGRv5+PsFyRvDdLd0pil6gVLcWD/bh69INNdwZ98dJwfHpLohA==
+"@types/readable-stream@^4.0.12":
+  version "4.0.12"
+  resolved "https://registry.yarnpkg.com/@types/readable-stream/-/readable-stream-4.0.12.tgz#9a683715338313a30b3d7f2527e09414098f7c44"
+  integrity sha512-SCaw+bs9o/HCX1eTa3glTcQgW1oPxof49mqP2Qikik3xzTimNv2M4p43BQHhBuf7CwOJdQW0s1SrWU3MZxz6lw==
   dependencies:
     "@types/node" "*"
     safe-buffer "~5.1.1"
