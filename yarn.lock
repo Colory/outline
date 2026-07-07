@@ -17872,7 +17872,7 @@ __metadata:
     request-filtering-agent: "npm:^3.2.0"
     resolve-path: "npm:^1.4.0"
     rimraf: "npm:^2.5.4"
-    rollup-plugin-webpack-stats: "npm:2.1.6"
+    rollup-plugin-webpack-stats: "npm:2.1.11"
     sanitize-filename: "npm:^1.6.3"
     scroll-into-view-if-needed: "npm:^3.1.0"
     semver: "npm:^7.7.2"
@@ -20063,9 +20063,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-stats@npm:1.5.1":
-  version: 1.5.1
-  resolution: "rollup-plugin-stats@npm:1.5.1"
+"rollup-plugin-stats@npm:1.5.6":
+  version: 1.5.6
+  resolution: "rollup-plugin-stats@npm:1.5.6"
   peerDependencies:
     rolldown: ^1.0.0-beta.0
     rollup: ^3.0.0 || ^4.0.0
@@ -20077,15 +20077,15 @@ __metadata:
       optional: true
     vite:
       optional: true
-  checksum: 10c0/81e196ef9404c3553cde1be23f41704a3cb780ea3ac69bf4c42dbca2cd5c60f0a1993c04d7a4c32bb77ab39bf873b5f9ebc0743dfae5e67873f02411c439d9f5
+  checksum: 10c0/205516f590fa8ccbe8d1a979d35f4215e2d9a5182849210ce99d6cbcc4b5654324a1d9611985e6429a667b9725a609914c1bd3f45cd4f5559e83cf995b289855
   languageName: node
   linkType: hard
 
-"rollup-plugin-webpack-stats@npm:2.1.6":
-  version: 2.1.6
-  resolution: "rollup-plugin-webpack-stats@npm:2.1.6"
+"rollup-plugin-webpack-stats@npm:2.1.11":
+  version: 2.1.11
+  resolution: "rollup-plugin-webpack-stats@npm:2.1.11"
   dependencies:
-    rollup-plugin-stats: "npm:1.5.1"
+    rollup-plugin-stats: "npm:1.5.6"
   peerDependencies:
     rolldown: ^1.0.0-beta.0
     rollup: ^3.0.0 || ^4.0.0
@@ -20097,7 +20097,7 @@ __metadata:
       optional: true
     vite:
       optional: true
-  checksum: 10c0/58aa2fc166d5eb5efffc64f76ff62766280480f3c530822f874d3db96fd964b7a2954ad922ab06b217ad3bf442177e41db5df8e43c2732e96062b520258663aa
+  checksum: 10c0/373e90a2f4fdb4d9469523afbbf4cce291b72fb128ec17219f62ca618087d982bb07fe78b0232c60f002e065c018dc6eed8d6ba07f1962b604d0da39db5c0a0a
   languageName: node
   linkType: hard
 
