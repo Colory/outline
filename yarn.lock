@@ -41,9 +41,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@aws-sdk/client-s3@npm:3.1145.0, @aws-sdk/client-s3@npm:^3.1145.0":
-  version: 3.1145.0
-  resolution: "@aws-sdk/client-s3@npm:3.1145.0"
+"@aws-sdk/client-s3@npm:3.1147.0, @aws-sdk/client-s3@npm:^3.1147.0":
+  version: 3.1147.0
+  resolution: "@aws-sdk/client-s3@npm:3.1147.0"
   dependencies:
     "@aws-sdk/checksums": "npm:^3.1001.1"
     "@aws-sdk/core": "npm:^3.978.1"
@@ -56,7 +56,7 @@ __metadata:
     "@smithy/node-http-handler": "npm:^4.12.1"
     "@smithy/types": "npm:^4.19.0"
     tslib: "npm:^2.6.2"
-  checksum: 10c0/1aea2b513959f7874fbc809464b4baca115a681dd96f736df06bd38cd8a4cb4e5917d66731b30530d034377dfaf767c612fd694b2b911db50f639c5407809512
+  checksum: 10c0/7b6f1b0b8a851eb578d5e6eeb3a36d3c764e522377b7450f7bfd36445aceb463b90d3e5842eaae14b8984ebeb82d643c395a5f922afdd9a4b4d43b08450099a4
   languageName: node
   linkType: hard
 
@@ -221,9 +221,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@aws-sdk/lib-storage@npm:^3.1145.0":
-  version: 3.1145.0
-  resolution: "@aws-sdk/lib-storage@npm:3.1145.0"
+"@aws-sdk/lib-storage@npm:^3.1147.0":
+  version: 3.1147.0
+  resolution: "@aws-sdk/lib-storage@npm:3.1147.0"
   dependencies:
     "@smithy/core": "npm:^3.35.0"
     "@smithy/types": "npm:^4.19.0"
@@ -232,8 +232,8 @@ __metadata:
     stream-browserify: "npm:3.0.0"
     tslib: "npm:^2.6.2"
   peerDependencies:
-    "@aws-sdk/client-s3": ^3.1145.0
-  checksum: 10c0/407fdf138f6075ed3666af975c7a8a73317a9a0856f1692fed085a640f2beb80fc7baadbd2636b6682bddbb0dd30c22b3f3262e6691593a6dd811113297dddcb
+    "@aws-sdk/client-s3": ^3.1147.0
+  checksum: 10c0/1ac84d7c10bccccdb4fdfaee3bbf4c5e0c63f7c5a9f160a3509dec822afa5506ace606645d45789fe8afccec8242a9aec87d9547752d7dfffb8b77179ff9fc62
   languageName: node
   linkType: hard
 
@@ -267,24 +267,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@aws-sdk/s3-presigned-post@npm:^3.1145.0":
-  version: 3.1145.0
-  resolution: "@aws-sdk/s3-presigned-post@npm:3.1145.0"
+"@aws-sdk/s3-presigned-post@npm:^3.1147.0":
+  version: 3.1147.0
+  resolution: "@aws-sdk/s3-presigned-post@npm:3.1147.0"
   dependencies:
-    "@aws-sdk/client-s3": "npm:3.1145.0"
+    "@aws-sdk/client-s3": "npm:3.1147.0"
     "@aws-sdk/core": "npm:^3.978.1"
     "@aws-sdk/types": "npm:^3.974.6"
     "@smithy/core": "npm:^3.35.0"
     "@smithy/signature-v4": "npm:^5.7.3"
     "@smithy/types": "npm:^4.19.0"
     tslib: "npm:^2.6.2"
-  checksum: 10c0/ab2d1901074c7feed18d653ac8d87ae550d2fc538f23f3e7ea91aadaf165f635e464a0e230d8db99684fb26791f3726bff227f656f381a6af825a5f11559bf69
+  checksum: 10c0/ab8217991e019ed33458de3a718fb9fe4949893b356c73c966909bbe0c020c2a014fe51c6a51b9d85a69d2873b558a592a2bde5454477f131513babd174c2845
   languageName: node
   linkType: hard
 
-"@aws-sdk/s3-request-presigner@npm:^3.1145.0":
-  version: 3.1145.0
-  resolution: "@aws-sdk/s3-request-presigner@npm:3.1145.0"
+"@aws-sdk/s3-request-presigner@npm:^3.1147.0":
+  version: 3.1147.0
+  resolution: "@aws-sdk/s3-request-presigner@npm:3.1147.0"
   dependencies:
     "@aws-sdk/core": "npm:^3.978.1"
     "@aws-sdk/signature-v4-multi-region": "npm:^3.996.47"
@@ -292,13 +292,13 @@ __metadata:
     "@smithy/core": "npm:^3.35.0"
     "@smithy/types": "npm:^4.19.0"
     tslib: "npm:^2.6.2"
-  checksum: 10c0/60bfcd8c10fb02dd88da3f0a444f991b989287055b70636771f83da9d9cafbd2a7c3a706fa68a79a63c0d6f7ffcb543120faa988506084c7ef82407aeb91e0af
+  checksum: 10c0/a569b5c90d929ff904636ea9c21c2a23f708b29367b586106ff0dcbdeddf69dcdee7e608767d79699639e82bfcd4acbecd5aad6a9936cce0956a85ed82390942
   languageName: node
   linkType: hard
 
-"@aws-sdk/signature-v4-crt@npm:^3.1145.0":
-  version: 3.1145.0
-  resolution: "@aws-sdk/signature-v4-crt@npm:3.1145.0"
+"@aws-sdk/signature-v4-crt@npm:^3.1147.0":
+  version: 3.1147.0
+  resolution: "@aws-sdk/signature-v4-crt@npm:3.1147.0"
   dependencies:
     "@aws-sdk/crt-loader": "npm:^3.972.76"
     "@aws-sdk/signature-v4-multi-region": "npm:^3.996.47"
@@ -307,7 +307,7 @@ __metadata:
     "@smithy/signature-v4": "npm:^5.7.3"
     "@smithy/types": "npm:^4.19.0"
     tslib: "npm:^2.6.2"
-  checksum: 10c0/377c116f664abf6e515ca72a1f902346c061b1c210dc9197a095e1c25d40476e62e0bd81c36e3f1b44a795c92797422ed28443f639d7ac4303426ce4052c0a26
+  checksum: 10c0/2ded4995d1f64428b26d6b96bcdc6b7271ed0843f3a94fc9bd8d0ed7709f9342793ee66dbe6aa92d79cd826dc4870ee409ae863074810b40d25d55aa22112e80
   languageName: node
   linkType: hard
 
@@ -15456,12 +15456,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "outline@workspace:."
   dependencies:
-    "@aws-sdk/client-s3": "npm:^3.1145.0"
+    "@aws-sdk/client-s3": "npm:^3.1147.0"
     "@aws-sdk/cloudfront-signer": "npm:^3.1138.0"
-    "@aws-sdk/lib-storage": "npm:^3.1145.0"
-    "@aws-sdk/s3-presigned-post": "npm:^3.1145.0"
-    "@aws-sdk/s3-request-presigner": "npm:^3.1145.0"
-    "@aws-sdk/signature-v4-crt": "npm:^3.1145.0"
+    "@aws-sdk/lib-storage": "npm:^3.1147.0"
+    "@aws-sdk/s3-presigned-post": "npm:^3.1147.0"
+    "@aws-sdk/s3-request-presigner": "npm:^3.1147.0"
+    "@aws-sdk/signature-v4-crt": "npm:^3.1147.0"
     "@benrbray/prosemirror-math": "npm:^0.2.2"
     "@bull-board/api": "npm:^6.21.3"
     "@bull-board/koa": "npm:^6.21.3"
